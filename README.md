@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sha1536
+- 👋 Hi, I’m @sha1536 ... no, i am not
 - 👀 I’m interested in ... not interested
 - 🌱 I’m currently learning ... not learning
 - 💞️ I’m looking to collaborate on ... not looking
