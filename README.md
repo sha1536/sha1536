@@ -5,8 +5,7 @@
 - 📫 How to reach me ... please don't
 
 ---
-
-> ![codewars](https://www.codewars.com/users/sha1536/badges/small)
+> [![codewars](https://www.codewars.com/users/sha1536/badges/small)](https://www.codewars.com/users/sha1536)
 
 <!---
 sha1536/sha1536 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
